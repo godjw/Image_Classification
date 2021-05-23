@@ -2,7 +2,7 @@
 Practice Image Classification using CIFAR-10 dataset
 
 1. 20161643.ipynb
-Used CNN to acheive 85% accuracy
+- Used CNN to acheive 85% accuracy
 
 2. resnet.ipynb
 - practice implementing ResNet architecture
