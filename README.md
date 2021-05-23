@@ -1,5 +1,9 @@
 # Image_Classification
 Practice Image Classification using CIFAR-10 dataset
 
-Run 20161643.ipynb to see the results.<br>
-Simply added a few layers to achieve 85% accuracy.
+1. 20161643.ipynb
+Used CNN to acheive 85% accuracy
+
+2. resnet.ipynb
+- practice implementing ResNet architecture
+- implement skip-gram architecture in MLP 
