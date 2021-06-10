@@ -7,3 +7,7 @@ Practice Image Classification using CIFAR-10 dataset
 2. resnet.ipynb
 - practice implementing ResNet architecture
 - implement skip-gram architecture in MLP 
+
+3. ViT.ipynb
+- practice implementing ViT architecture
+- understand encoder, attention architecture
